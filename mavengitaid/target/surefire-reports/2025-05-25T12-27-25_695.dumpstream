@@ -1,0 +1,5 @@
+# Created at 2025-05-25T12:27:25.888
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Maven\mavengit\mavengitaid\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
